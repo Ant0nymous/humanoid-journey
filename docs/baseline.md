@@ -38,6 +38,9 @@ Top Priority Gap Closers:
 ## Target ##
 With the upcoming release of humanoid robots in the next 2-5 years, there will be a large demand for people to deploy the bots within all industries. I want to improve my skill sets to be able to capitalise on this massive industry disruptor.
 
-
+Within the next 18 months:
+Complete a basic 3D printed humanoid robot.
+Change role, the role is unlikely to be invented yet but I want to work humanoid robot deployment within the mining industry either with a new company or my current company as I am currently supporting and deploying automation and remote operation within the mining industry.
+With my experience working with autonomous fleets, remote operations, safety-critical systems and getting automation running at real sites, this is my entry point into the industry.
 
 My end target would be to own a company that deploys humanoid robots to businesses all over the world.
